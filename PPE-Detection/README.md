@@ -24,7 +24,7 @@ PPE-Detection/
 
 ## 🔗 Download Pretrained Weights
 You can download the trained YOLOv8 model here:  
-[ppe.pt]([https://github.com/YOUR-USERNAME/PPE-Detection/releases/download/v1.0/ppe.pt](https://github.com/sardor2022/PPE_Detection/releases/download/v1.0/ppe.pt))
+[ppe.pt](https://github.com/sardor2022/PPE_Detection/releases/download/v1.0/ppe.pt)
 
 
 🙌 Credits
@@ -33,3 +33,4 @@ Dataset: PPE Detection Using CV – Roboflow Universe : https://universe.roboflo
 
 
 Model: Ultralytics YOLOv8 : https://github.com/ultralytics/ultralytics?utm_source=chatgpt.com
+
